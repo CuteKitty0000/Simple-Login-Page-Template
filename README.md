@@ -10,11 +10,7 @@ Welcome to the **Login Page Template** GitHub repository. This project is a crea
 
 - **Responsive Layout**: The login page is responsive, ensuring a consistent and user-friendly experience on both desktop and mobile devices.
 
-- **Password Recovery**: You can add a password recovery mechanism to help users reset their passwords if they forget them.
-
 - **Social Media Login**: Option to include social media login options (e.g., OAuth) for quick and convenient access.
-
-- **Error Handling**: Built-in error handling for login failures, ensuring a smooth user experience.
 
 ## Getting Started
 
